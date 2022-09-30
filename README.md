@@ -4,7 +4,7 @@
 
 💻 **Currently:** Studying advanced software developer accelerator at Mission ready HQ  
 🌱 **Learning:** Cloud services (AWS, Azure and IBM Cloud), Artificial intelligence services, Architectural patterns, Agile mindset and practices, DevOps and automated deployment, Design thinking, SQL and databases, JSON and API, Unit testing  
-🤝 I'm keen collaborate on your exciting project! - reach me at **l.p.lawson@icloud.com**
+🤝 I'm keen collaborate on your exciting project! - reach me at **l.p.lawson@icloud.com** or **[linkedin](https://www.linkedin.com/in/loganplawson)**
   
 
   
