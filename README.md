@@ -1,6 +1,6 @@
 # Kia ora! 👋🏽
 
-**Ko Logan ahau (he/him)** - I’m data scientist and full stack devloper.
+**Ko Logan ahau (he/him)** - I’m data scientist and full stack devloper. Still looking for the perfect problem to solve.
 
 💻 **Currently:** Studying advanced software developer accelerator at Mission ready HQ  
 🌱 **Learning:** Cloud services (AWS, Azure and IBM Cloud), Artificial intelligence services, Architectural patterns, Agile mindset and practices, DevOps and automated deployment, Design thinking, SQL and databases, JSON and API, Unit testing  
