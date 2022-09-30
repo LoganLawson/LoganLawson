@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LoganLawson
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning data science
+Kia ora koutou, Ko Logan Lawson ahau.
 
-<!---
-LoganLawson/LoganLawson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in big problems
+🌱 I’m currently learning Cloud services (AWS, Azure and IBM Cloud), Artificial intelligence services, Architectural patterns, Agile mindset and practices, DevOps and automated deployment, Design thinking, SQL and databases, JSON and API, Unit testing
+🤝 I'm keen collaborate on your exciting project! - reach me at l.p.lawson@icloud.com
+🌐 Languages: Python, R, TypeScript, JavaScript, SCSS/SASS, HTML/CSS
+🔧 Tools: React, Node.js, Docker, 
